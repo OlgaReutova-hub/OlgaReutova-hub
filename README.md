@@ -9,13 +9,12 @@
 -  I'm currently working on AI-driven marketing solutions
 -  I'm currently learning Python, Telegram Bots, and AI APIs
 -  Ask me about pharmaceutical marketing and AI integration
--  How to reach me: 7704544@gmail.com
+-  How to reach me: olgareutova@mail.ru
 -  Telegram: https://t.me/PharmAI_Pro
 
 ###  Skills & Interests
 
-- Strategic Marketing
-- Pharmaceutical Products
+- Strategic Marketing in pharma
 - Artificial Intelligence
 - Python Development
 - Telegram Bots
