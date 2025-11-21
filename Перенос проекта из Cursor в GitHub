@@ -1,0 +1,19 @@
+**Последовательность команд для переноса проекта из Cursor в GitHub*
+
+# 1. Инициализация
+git init
+
+# 2. Добавление файлов
+git add .
+
+# 3. Коммит
+git commit -m "Initial commit: Telegram recipe bot"
+
+# 4. Подключение GitHub (замените URL на свой)
+git remote add origin https://github.com/OlgaReutova-hub/Nejro_buter_bot.git
+
+# 5. Переименование ветки
+git branch -M main
+
+# 6. Загрузка на GitHub
+git push -u origin main
